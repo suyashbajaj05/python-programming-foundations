@@ -2,14 +2,14 @@
 🐍 Python Programming Foundations (Age 15)
 
 
-🎓 Personal Milestone
+🎓 **Personal Milestone:**
 I developed these projects in **early 2026 at the age of 15**, during my transition break between **Class 9 and Class 10**. This repository marks the beginning of my journey in building a professional portfolio and strengthening my technical skills.
 
 Starting this GitHub portfolio early allows me to document my growth in logical thinking, structured programming, and digital organization from day one.
 
 ---
 
-📂 Featured Projects
+📂 **Featured Projects:**
 This repository contains four foundational scripts that demonstrate core logic:
 
 1. **🏥 Health App (BMI Reporter)**  
@@ -31,4 +31,4 @@ This repository contains four foundational scripts that demonstrate core logic:
 
 ---
 
-*"The journey of a thousand miles begins with a single step."*
+***"The journey of a thousand miles begins with a single step."***
