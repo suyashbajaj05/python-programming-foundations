@@ -10,17 +10,17 @@ Starting this GitHub portfolio early allows me to document my growth in logical 
 ---
 
 📂 **Featured Projects:**
-This repository contains four foundational scripts that demonstrate core logic:
+This repository contains five foundational scripts that demonstrate core logic:
 
-1. **🏥 Health App (BMI Reporter)**  
+1. **🏥 Health App (BMI Reporter)**: 
    Calculates BMI and generates a personalized health report with category-specific tips.
-2. **🎫 Train Ticket Price Calculator**  
+2. **🎫 Train Ticket Price Calculator**:  
    A dynamic pricing tool that applies specific discounts for different age categories.
-3. **🧮 Smart Arithmetic Tool**  
+3. **🧮 Smart Arithmetic Tool**:  
    A continuous-loop calculator featuring error handling for division-by-zero.
-4. **🔐 Secure Login Simulator**  
+4. **🔐 Secure Login Simulator**:
    A logic-based authentication system that verifies credentials and simulates document access.
-5. **🕶️ Smart VIP Bouncer**
+5. **🕶️ Smart VIP Bouncer**:
    A security gate simulation that implements logic priority, compound conditions, and automated input cleaning. It uses conditionals to allow or reject entry in club or party. 
 ---
 
