@@ -20,7 +20,8 @@ This repository contains four foundational scripts that demonstrate core logic:
    A continuous-loop calculator featuring error handling for division-by-zero.
 4. **🔐 Secure Login Simulator**  
    A logic-based authentication system that verifies credentials and simulates document access.
-
+5. **🕶️ Smart VIP Bouncer**
+A security gate simulation that implements logic priority, compound conditions, and automated input cleaning. It uses conditionals to allow or reject entry in club or party. 
 ---
 
 🛠️ Technical Skills Demonstrated
